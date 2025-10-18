@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CE55D949-74B9-450A-91C7-B0969FBF3696}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PEAKReactBot", "src\PEAKReactBot\PEAKReactBot.csproj", "{F1AE4895-7213-4FEF-AD82-910413B20ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AE4895-7213-4FEF-AD82-910413B20ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AE4895-7213-4FEF-AD82-910413B20ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AE4895-7213-4FEF-AD82-910413B20ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AE4895-7213-4FEF-AD82-910413B20ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F1AE4895-7213-4FEF-AD82-910413B20ACD} = {CE55D949-74B9-450A-91C7-B0969FBF3696}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F6D475-68F0-44D6-A1AF-A28F5948E381}
+	EndGlobalSection
+EndGlobal

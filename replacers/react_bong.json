@@ -1,0 +1,2932 @@
+{
+	"replacements": [
+		{
+			"matches": [
+				"*:BingBong:bingbongVO_AskFriends",
+				"*:BingBong:bingbongVO_DefNot",
+				"*:BingBong:bingbongVO_DontDoIt",
+				"*:BingBong:bingbongVO_IDunno",
+				"*:BingBong:bingbongVO_IfYouWanna",
+				"*:BingBong:bingbongVO_IGuess",
+				"*:BingBong:bingbongVO_ImBingBong",
+				"*:BingBong:bingbongVO_IThinkItsFine",
+				"*:BingBong:bingbongVO_IThinkThatsABadIdea",
+				"*:BingBong:bingbongVO_Maybe",
+				"*:BingBong:bingbongVO_MissesWife",
+				"*:BingBong:bingbongVO_Nah",
+				"*:BingBong:bingbongVO_NOLong",
+				"*:BingBong:bingbongVO_NoNoNo",
+				"*:BingBong:bingbongVO_NoShort",
+				"*:BingBong:bingbongVO_NotComfortable",
+				"*:BingBong:bingbongVO_NotSure",
+				"*:BingBong:bingbongVO_NuhUh",
+				"*:BingBong:bingbongVO_OK",
+				"*:BingBong:bingbongVO_PleaseDont",
+				"*:BingBong:bingbongVO_Sure",
+				"*:BingBong:bingbongVO_TakeMeWith",
+				"*:BingBong:bingbongVO_UHHH",
+				"*:BingBong:bingbongVO_Y..Yeah",
+				"*:BingBong:bingbongVO_YeahDef",
+				"*:BingBong:bingbongVO_Yes"
+			],
+			"sounds": [
+				{
+					"sound":  "1 damn thats crazy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "10 yea okay.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "100 well thats time ill never get back.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "101 how do i delete someone elses video.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "102 im feeling a light 7 here.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "103 and im giving this a 7 out of 10.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "104 lets give it up for the real heroes reactors.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "105 wiggling my toesies right now.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "106 whoever made this i hope you become rich and successful.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "107 transformative commentary.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "108 sorry i wasnt paying attention.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "109 sorry i zoned out.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "11 oh wow thats really interesting.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "110 lets watch that again.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "111 burp.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "112 cmon guys lets get this video trending.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "113 cmon guys lets upvote this on reddit.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "114 banger alert.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "115 we are so back.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "116 it is so over.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "117 videos like this are why i love my country.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "118 bro went sicko mode.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "119 methinks this didnt really happen.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "12 scratches chin.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "120 its giving thanks.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "121 its giving rizz.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "122 its giving zest.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "123 its giving staged.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "124 its giving cringe.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "125 its giving girlboss.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "126 its giving sigma.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "127 what year is it.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "128 this couldnt be made today.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "129 erm someone call the woke police.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "13 and be sure to like and subscribe.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "130 cant do that anymore because of woke.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "131 bro just lost the woke contest.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "131b bro just won the woke contest.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "132 bro really thinks hes woke.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "133 bro really thinks hes smooth.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "134 methinks i just soiled me undies.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "135 erm did they just say what i think they said.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "136 bro really wants us to think hes funny.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "137 bro not this again.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "138 when you see it youll shit bricks.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "139 yo can we roll that back.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "14 if youre enjoying this video please subscribe and hit that bell.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "140 not me laughing at this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "141 not me nose exhaling.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "142 not me giggling and kicking my feet.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "143 dude what whhhaaaaat.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "144 next video.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "145 next tiktok.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "146 okay next one.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "147 like this if youre watching in 2014.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "148 edit thanks for the likes.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "149 i like this one.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "15 leave a comment telling me what your favorite part is.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "150 i dont like this one.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "151 i dont get this one.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "152 this is my reacting face creepy smile.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "153 this is my reacting face shocked.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "154 this is my reacting face eyebrow raise.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "155 yup its official this videos epic.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "156 literally obsessed with their hair.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "157 this is so barbie coded.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "158 this is giving major gemini energy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "159 this video makes my tummy hurt.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "16 like this video if your agree.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "160 if you criticize me ill come straight to your home.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "161 i dont know what those big words mean.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "162 my commentary makes this transformative.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "163 you guys are all my friends.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "164 whoa woah.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "165 checkmate atheists.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "166 im literally dead.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "167 certified banger.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "168 only virgos can relate.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "169 this is so capricorn coded.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "17 did you know that most of my viewers arent subscribed to me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "170 the scorpio energys insane.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "171 this is something only my fellow girlies will get.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "172 methinks you should pound that like button.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "173 videos like this are why i could never have kids.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "174 obsessed with these vibes.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "175 dudes going goblin mode.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "176 this video makes me wanna hug my doggo.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "177 bro has no life.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "178 no way bro is real.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "179 cant believe he did that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "18 now this is epic.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "180 whoa what is bro doing.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "181 look at all these confident leos.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "182 now this is content.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "183 uhhhhh uh meow.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "184 omegalol omegalul.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "185 nah ima do my own thang.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "186 rate 5 stars if you like this video.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "187 oh yea thats cute.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "188 now this is for real mulch eaters.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "189 it is what it is.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "19 now thats what i call music.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "190 erm so theres that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "191 wow i have no words.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "192 uh yeah so thats a thing.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "193 this is giving off woke vibes.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "194 what the grimace shake.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "195 skibidi dibidi doo dahh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "196 not with that attitude.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "197 erm no comment.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "198 its joever.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "199 why would bro do that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "2 bro is wrong for that one.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "20 poggers.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "200a this is so millennial humor.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "200b this is so millennial coded.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "201 hubba hubba.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "202 this is so gen z pilled.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "203 hupty dupty.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "204 only 90s kids can relate.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "205 if you can relate to this congrats your childhood was epic.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "206 check your privilege.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "207 my timbers shivered.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "208 chatgpt what do i say next.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "209 thank you very cool.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "21 yo bro im so confused.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "210 nostalgia maxxing.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "211 oh alright.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "212 jelqmaxxing.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "213 the math isnt mathing.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "214 oof.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "215 oh boy oh boy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "216 lol me too.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "217 couldnt be me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "218 storytime.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "219 is this what our founding fathers wanted.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "22 erm this makes my head hurt.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "220 damn daniel.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "221 goonin with the boys.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "222 well said.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "223 now this is a libra moment.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "224 zoo wee mama.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "225 really makes you think huh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "226 this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "227 aha sir this is a wendys.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "228 ruh-roh raggy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "229 psalm 69 those who hate me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "23 man thats tough.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "230 bazinga.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "231 thats so funny.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "232 the lord answered bring me a heifer genesis 15 9.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "233 old.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "234 ezekiel 23 20 there she lusted.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "235 none of these words are in the bible.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "236 i do my own research.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "237 what is this the united states of woke.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "238 free thinkers unite.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "239 john 11 35 jesus wept.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "24 ah bro is killing me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "240 i love freebooting.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "241 this really shows how oppressed gamers are.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "242 no flesh shall be spared matthew 24 22.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "243 erm check please.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "244 ill have what shes having.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "245 its giving awesomesauce.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "246 slay slaaaayyy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "247 their vibe checked.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "248 chat whats this guys address.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "249 wildin.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "25 bruh im so done bruh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "250 what the what.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "251 what the skibidi rizz is up with that guy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "252 god is dead and we killed him.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "253 god is alive and will cleanse this world of sin.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "254 pussy in bio.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "255 eat the rich.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "256 thats totally me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "257 this is actual brainrot.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "258 totes magotes.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "259 was that the bite of 87.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "26 duuuuude.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "260 this feels like liberal propaganda.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "261 amazeballs.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "262 i bet bro is vaccinated.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "263 can we give a shoutout to working moms.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "264 this wins the internet.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "265 only true fans will like and share this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "266 feeling old yet.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "267 such a samantha thing to say.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "268 she thinks shes a carrie but shes really a miranda.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "269 some real hufflepuff energy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "27 erm did that just happen.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "270 its giving slytherin.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "271 thats so michael scott coded.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "272 its giving child of divorce.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "273 that really rustles my jimmies.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "274 im gonna say my angry word.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "275 thanks i hate it.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "276 does he know.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "277 the gaslighting is insane.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "278 and they were roommates.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "279 is he stupid.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "28 hes right behind me isnt he.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "280 im telling the subreddit about this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "281 mic drop.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "282 hahaha i do that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "283 looks like we got ourselves a sticky situation.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "284 oh she ate.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "285 erm what the sigma.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "286 consider that tea spilled.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "287 whats all this then.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "288 now thats some good tea.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "289 they fell off hard.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "29 that sounded a lot better in my head.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "290 thanks for the gold kind stranger.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "291 now they understood the assignment.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "292 they went full send never go full send.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "293 fax no printer.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "294 on god no cap.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "295 thats cap.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "296 uhoh uh oh stinky.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "297 holy crap lois.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "298 no god on cap.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "299 scratch that reverse it.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "3 bro has no chill.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "30 heh yea OH kay.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "300 they did the thing.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "301 as an ai language model i am unable to react to this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "302 make it make sense.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "303 this has vine energy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "304 hey guys very excited for todays video.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "305 that wasnt on my bingo card.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "306 im done adulting for the day.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "307 more of this please.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "308 win.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "309 fail.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "31 erm exqueeze me sauce.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "310 cute.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "311 this aint it chief.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "312 wait was that markiplier.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "313 dont talk to me until ive had my morning coffee.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "314 oo hot take.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "315 my dogs are barking.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "316 let him cook.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "317 challenge accepted.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "318 thats enough internet for today.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "319 they need to touch grass.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "32 if you like what youre seeing go ahead and subscribe.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "320 i heckin love science.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "321 heckin chonker.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "322 absolute unit.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "323a we stan a queen.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "323b we stan a queen.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "324 if you know you know.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "325 im on that weird side of youtube.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "326 and i oop.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "327 those who get it get it and those who dont dont.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "328 like this if youre watching this in 2024.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "329 can we just applaud this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "33 bro who even did this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "330 catch my upvote.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "331 credit to whoever made this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "332 friendzoned.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "333 we stan a short king.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "334 chad energy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "335 that took balls.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "336 unironically the coolest thing i_ve ever seen in my life.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "337 chat can we get their social security number.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "338 my jaw on the floor.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "339 ah the classic switcheroo.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "34 bro thinks theyre sigma.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "340 nice.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "341 not my president.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "342 okay this next one is insane.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "343 ok this next one is gonna break your brain.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "344 give this video a like if your parents are still divorced.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "345 flawless skin.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "346 i need a shower after that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "347 only 1 percent of you will get this one.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "348 my pronouns are react bot.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "349 bro looks like cocomelon.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "35 leave a comment telling me what you ate today.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "350 unbothered and thriving.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "351 wish i could rate this 5 stars still.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "352 dyou guys hear trump died.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "353 hit that subscribe button and join the react army.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "354 guys we can all agree that abstinence rules right.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "355 yup its mukbang time.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "356 look at this chungus.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "357 bro how do they do that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "358 i love this song.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "359 this is giving me goose pimples.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "36 smash that like button if you agree.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "360 its true what they say girls get it done.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "361 this got me feeling a type of way.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "362 i dedicate this video to the troops.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "363 yea you really cant say that word anymore.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "364 i was today years old when i found this out.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "365 bruh moment.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "366 they should retire after this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "367 women are so powerful.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "368 can they say that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "369 they should be in jail.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "37 thats what i call a vibe.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "370 yo this ones for the guys.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "370b yo this ones for the boys.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "371 i felt that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "372 catch my downvote.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "373 man this video feels illegal.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "374 this vid would put a victorian child in a coma.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "375 i dont know what i expected.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "376 ah the classic razzle dazzle.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "377 ok maybe the one piece is real.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "378 that looked like it hurt.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "379 this is why blue lives matter.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "38 chat is this real.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "380 rip bozo.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "381 bro really said mmmmmm.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "382 bro is lookin crusty musty.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "383 i need a drink after that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "384 this makes me so mad.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "385 blink twice if youre being held hostage.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "386 and tell me which hogwarts house you belong to.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "387 this video is why i have a peanut allergy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "388 this video gave me a migraine.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "389 what the sigma.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "39 man thats wild bro.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "390 we must protect them at all costs.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "391 hmm im gonna need a mini reactbot for this one it stinks.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "392 the human body has over 60000 miles of blood vessels.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "393 i dont have an opinion on this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "394 i fail to see the humor here.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "395 this next ones for the fellas.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "396 is this a liveleak video.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "397 bros straight up mogging me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "398 can we gatekeep this from the normies.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "399 this is so sad.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "4 im bored.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "40 bro thats wild man.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "400 chad detected.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "401 if you know what i mean wink.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "402 its giving girl dinner.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "403 would.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "404 no comment.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "405 yea im not touching that one.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "406 i wanna shake this persons hand.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "407 im a sucker for a cute lil doggo.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "408 bro lowkey cookin.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "409 if this gets 5000 likes ill swallow my own tongue.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "41 erm what the scallop.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "410 if this gets 10000 likes nothing will happen.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "411 mmm i dont know about that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "412 bro thought they were slick.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "413 bro thought they they bro though glitch next tiktok.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "414 impossible is nothing.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "415 we are the dream makers.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "416 hold on shut up im trying to think of something to say.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "417 now thats a spicy meatball.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "418 whoa woah what did i just witness.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "419 shut up and witness me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "42 yea its official im shooketh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "420 maybe the real video was in here.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "421 haha yes so true.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "422 so true mhmm.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "423 nodders.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "424 rizztacular.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "425 based af.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "426 thats actually really offensive.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "427 theres nothing funny about 911.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "428 this is so true you guys.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "429 real.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "43 thats crazy but okay.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "430 nahh thats crazy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "431 for real thats crazy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "432 im watching this and i still dont believe it.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "433 pathetic you can do better.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "434 aw hell naw.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "435 thats gross.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "436 uh yea instant like.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "437 nahhh thats the joker.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "438 bro is getting it done.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "439 man it always be like that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "44 mmm alrighty then.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "440 go girl give us nothing.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "441 bro is lying.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "442 youre a real one for that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "443 uh actions meet consequences.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "444 thats what you get.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "445 thats a bowl fulla sauce.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "446 this just be the harsh reality.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "447 erm this is giving me an existential crisis.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "448 im gonna feed you guys good today.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "449 leave a comment if you thought that was crazy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "45 guys i literally cant with this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "450 uh language haha.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "451 thats a bingo.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "452 erm mods crush this guys skull.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "453 not really that impressive.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "454 this videos kind of a nothing burger.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "455 bro let the intrusive thoughts win.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "456 gonna show this to my meemaw.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "457 gonna show this to gamgam.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "458 wow they look like they work out.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "459 i dont wanna say what im thinking right now.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "46 whoa thats intense.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "460 white ppl be like.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "461 this just feels wrong.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "462 feeling some huge libra vibes.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "463 thats kinda cringe bruh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "464 they got that dog in em.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "465 yippee.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "466 this is me when i go to a starbucks.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "467 subscribe to join the react family.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "468 i dont consider you guys my subscribers i consider you all my friends.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "469 that didnt age well.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "47 are you flipping kidding me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "470 cool video.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "471 wake me when its virgo season.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "472 instant karma.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "473 they dont make em like they used to.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "474 shakes head uhuh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "475 nods uh huh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "476 this isnt nearly as epic as BACON.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "477 i cant react until ive had my coffee.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "478 this feels racist but i cant explain why.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "479 this video is proof that we live in the matrix.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "48 oof thats cringe bro.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "480 this is why i hate children.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "481 showing this to my doggo.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "482 i love fluffer pupper doggos.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "483 bro lookin like an ipad kid.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "484 this gave me second hand embarrassment.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "485 this is making me uncomfortable.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "486 someone wasnt hugged enough as a kid.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "487 im gonna pin the craziest comment.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "488a hi im reactbot.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "488b im reactbot.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "488c im reactbot.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "489 yup.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "49 uhhh talk about a twist ending.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "490 true.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "491 only gamers will get that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "492 subscribe to me because i curate only the best stuff.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "493 i just wanna say to the haters its not stealing its reacting.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "494 i hate to bring gender into this but women deserve to be respected.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "495 using ai ive determined that this video is epic sauce.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "496 i just wanna say to the haters stay mad and stay broke.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "497 i just wanna say to the haters its not my fault you have bacne.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "498 straight vibin.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "499 kinda waluigi coded.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "5 damn.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "50 bro i did not expect that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "500 this is garfield coded.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "501 that got messy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "502 now that was an epic gamer moment.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "503 insert reaction here.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "504 not me vibing with the rizz.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "505 this is slop.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "506 i give it a two out of five.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "507 i give this a D-.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "508 this is a bop.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "509 classic.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "51 yuh if that were me i wouldve done things a little differently.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "510 i bet their pronouns are epic sauce.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "511 to all my haters look how smooth my skin is.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "512 this reminds me of mr beast.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "513 bro is straight up yapping.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "514a yes.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "514b yes.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "515 NO.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "516 this reminds me of epic meal time.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "517 has RWJ seen this one yet.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "518 this reminds me of ijustine rip.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "519 im bored lets watch family guy funnies.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "52 vroom vroom.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "520 i cant focus can you put on some subway surfers.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "521 okay yea this deserves some reddit gold.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "522 what cant women do.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "523 this aspect ratio rocks.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "524 this is giving some freak energy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "525 this is a video.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "526 well that just happened.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "527 shazaam.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "528 relatable.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "529 this is a moment.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "53 im literally speechless.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "530 what just happened.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "531 ruh roh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "532 did you guys see that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "533 bro is speakin truth.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "534 now this is more like it.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "535 my diaper full.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "536 aw thats cute.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "537 my flabbers ghasted.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "538 behavior on both sides.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "539 F to pay respects.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "54 totally.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "540 guhhhh noise when pulling tugging on shirt collar.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "541 chuckling and shaking head.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "542 this reminds me of something.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "543 this is why i love america.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "544 you can say that again.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "545 bro is the michael jordan of basketball.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "546 like this if youre watching in 2025.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "547 bro is spitting straight facts.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "548 they hate us cause they aint us.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "549 i hope everyone watching is having a great day.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "55 obsessed.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "550 10 out of 10.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "551 perfect no notes.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "552 3 out of 10.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "553 7 out of 10.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "554 thats a 5 out of 10 for me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "555 its a no for me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "556 i think ive seen this before.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "557 consider their goose cooked.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "558 chat is this fact or cap.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "559 who let bro cook.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "56 vibe is crazy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "560 uhhhhh whos gonna tell em.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "561 ok hear me out.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "562 oh fuck censored bleeped.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "563 is this satire.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "564 this is lowkey bridgerton coded.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "565 zoinks scoob.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "566 oooo right in the feels.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "567 oooo right in the childhood.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "568 is this 8 minutes yet.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "569 im reacting so hard right now.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "57 what am i even watching.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "570 emotional damage.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "571 this doin numbers.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "572 SUS.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "573 this big guy eatin all the lil guys.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "574 username checks out.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "575 that makes sense.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "576 how is this not viral.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "577 the vibe i bring to the function.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "578a i dont get it.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "578b i dont get it.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "579 not funny didnt laugh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "58 im on the weird side of youtube.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "580 what part of me asked.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "581 ahaha thats wild.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "582 my hungry ass could not.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "583 my sleepy ass could never.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "584 this is peak.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "584b this is peak.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "585 what did i walk into.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "586 the gooooaaaat goat.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "587 the old one was better.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "588 ahhh the good old days.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "589 is that a jojo reference.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "58b yup its official im on the weird side of youtube.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "59 thats gonna leave a mark.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "590 thats crazy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "591 that took a turn.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "592 ermmm plot twist.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "593 oh how the turn tables.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "594 is that even legal.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "595 aint no way.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "596 stonks.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "597 legit mood.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "598 worldstar.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "599 why i oughta.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "6 i just failed my try not to laugh challenge.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "60 this hits different now.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "600 you had one job.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "601 is that the guy from fortnite.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "602 im not crying you are.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "603 thats the straw that broke the camels back.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "604 dont mind if i do.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "605 what IS that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "606 what is THAT.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "607 i need an adult.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "608 ugh i hate the word moist.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "609 bussin.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "61 erm that was unexpected.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "610 ugh i hate adulting.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "611 bros giving me the ick.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "612 we love a redemption arc.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "613 we love to see it.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "614 red flag.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "615 instant red flag.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "616 green flag.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "617 thisll get me demonetized.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "618 tips fedora.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "619 bro let the demons win.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "62 i cant even.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "620 bombastic side eye.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "621 hit em with the side eye.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "622 yes speak your truth.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "623 what are the odds.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "624 go off king.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "625 pop off sis.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "626 yassss queen.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "627 aw they ate with that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "628 ate and left no crumbs.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "629 clearly edited.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "63 thats actually really funny.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "630 im in this vid and i dont like it.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "631 clearly ai.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "632 haters will say its fake.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "633 oh ew you can see the rotoscoping.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "634 bro has receipts.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "635 looks photoshopped.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "636 animators get on it.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "637 NPC behavior.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "638 uhhh in english please.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "639 straight to jail.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "64 agree to disagree.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "640 caught in 4k.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "641 someone send this to mr beast.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "642 elon wont like this one.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "643 not the asshole.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "644 that looks like it hurt.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "645 wait theyre banning tiktok.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "646 this is literally 1984.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "647 i can smell this video.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "648 bureaucracy is inherently kafkaesque.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "649 this is my fight song.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "65 dude thats lowkey wild.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "650 bro is on to nothing.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "651 somebody call the whambulance.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "652 this is my 13th reason.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "653 i dont wanna get political but this is obama coded.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "654 you need a high iq for this one.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "655 new fear unlocked.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "656 is he okay.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "657 how did they do that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "658 this video right here officer.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "659 500 IQ moment.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "66 bet.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "660 what a bozo.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "661 big dick energy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "662 mmm a man of culture i see.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "663 shut up and take my money.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "664 mommy step on me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "665 mommy knows best.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "666 mom can you pick me up im scared.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "667 cant show this one to mom.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "668 mother is mothering.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "669 thats rough buddy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "67 facts.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "670 me when the doom music kicks in.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "671 i support the death penalty.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "672 talk about a life hack.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "673 this drama is spicy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "674 haha work smarter not harder.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "675 who won whos next you decide.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "676 i miss the old smosh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "677 my skinny ass could never.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "678 oo thats a freudian slip.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "679 more proof that video games lead to violence.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "68 its kinda mid.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "680 this says a lot about society.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "681 hellll yea.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "682 press x to doubt.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "683 i dunno i just didnt find it that funny.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "684 this is the best thing ive seen all year.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "685 jarvis remove their legs.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "686 this is literally my weakness.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "686b this is literally my weakness.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "687 hashtag not all men.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "688 a for effort.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "689 nerd emoji vine boom.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "69 chat can we skip this part.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "690 cringe face emoji vine boom.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "691 skull face emoji vine boom.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "692 awkward awkwarrrrrrd.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "693 my pants pissed.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "694 yikes.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "695 yuckyyy.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "696 chat can i get a kiss.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "697 im feeling really ugly today can someone in the comments give me a lil boost.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "698 gawrsh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "699 meesa like what im seeing.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "7 mm hahaha.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "70 thats certainly a choice.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "700 this actually happened to my cousin.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "701 welcome to crazytown population this video.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "702 still wont heal our broken country.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "703a i dont like that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "703b i dont like that.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "704 okay.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "705 pop pop pop pop pop.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "706 my life be like oooo ahhhh.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "707 chat can we cancel them.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "708 hey can we get a USA in the chat.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "709 this is cinema.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "71 this a whole mood right here.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "710 buzzer sound shakes head wrong.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "711 ding ding ding correct sound nods head.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "72 dont ask me where i was on the night of october 13th 2023.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "73 this is giving me all the feels.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "74 talk about a giant W.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "75 talk about a giant L.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "76 this video is giving epic sauce.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "77 your honor i plead the fifth.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "78 womp womp.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "79 leviticus.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "8 got me feeling a certain type of way.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "80 proverbs.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "81 the current time is 453 pm.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "82 im reactbot.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "83 merry christmas.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "84 this video gets a 4 out of 5.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "85 whoever made this video deserves a big ol spanking.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "86 whoever made this video definitely voted for trump.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "87 i find that joke a little offensive.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "87b i find that joke highly offensive.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "88 be sure to credit the creators when reacting to content.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "89 doxxing is a misdemeanor.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "9 bro is literally me.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "90 giving that an A+.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "91 gonna grade this one a B-.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "92 that is such a gemini move.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "93 skibidi go to the polls.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "94 love the aesthetic.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "95 but doctor i am pagliacci.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "96 bro left no crumbs.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "97 bro who did this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "98 wishin my meemaw were still alive to see this.mp3",
+					"weight":  1
+				},
+				{
+					"sound":  "99 bro i wish i could unsee that.mp3",
+					"weight":  1
+				}
+			]
+		}
+	]
+}

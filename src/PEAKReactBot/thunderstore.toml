@@ -1,5 +1,5 @@
 [config]
-schemaVersion = "0.0.2"
+schemaVersion = "0.1.1"
 
 [general]
 repository = "https://thunderstore.io"
@@ -31,6 +31,18 @@ target = "/"
 [[build.copy]]
 source = "../../LICENSE"
 target = "/"
+
+[[build.copy]]
+source = "../../replacers"
+target = "plugins/replacers"
+
+[[build.copy]]
+source = "../../sounds"
+target = "plugins/sounds"
+
+[[build.copy]]
+source = "../../sound_pack.json"
+target = "plugins/"
 
 # The following config options only apply when using TCLI to publish to Thunderstore directly:
 
